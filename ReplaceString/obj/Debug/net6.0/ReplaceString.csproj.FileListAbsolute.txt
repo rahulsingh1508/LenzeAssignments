@@ -1,0 +1,15 @@
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\bin\Debug\net6.0\ReplaceString.exe
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\bin\Debug\net6.0\ReplaceString.deps.json
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\bin\Debug\net6.0\ReplaceString.runtimeconfig.json
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\bin\Debug\net6.0\ReplaceString.dll
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\bin\Debug\net6.0\ReplaceString.pdb
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.csproj.AssemblyReference.cache
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.AssemblyInfoInputs.cache
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.AssemblyInfo.cs
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.csproj.CoreCompileInputs.cache
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.dll
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\refint\ReplaceString.dll
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.pdb
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ReplaceString.genruntimeconfig.cache
+C:\Users\SinghR\source\repos\ReplaceString\ReplaceString\obj\Debug\net6.0\ref\ReplaceString.dll
